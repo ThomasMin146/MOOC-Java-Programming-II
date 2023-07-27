@@ -1,0 +1,8 @@
+asteroids\Asteroid.class
+asteroids\AsteroidsApplication.class
+asteroids\Projectile.class
+asteroids\Character.class
+asteroids\Ship.class
+asteroids\PolygonFactory.class
+asteroids\GameWindow$1.class
+asteroids\GameWindow.class
